@@ -1,6 +1,6 @@
 # Zork
 
-This is an issue tracking repository for [this version of Zork](https://zork-rust.netlify.app).
+This is an issue tracking repository for [this version of Zork](https://zork.cglyph.xyz/).
 
 Whenever possible, please use the `bug` and `feature` commands to file, which will request some basic information, then format an issue that automatically includes the game version number and a recent transcript, e.g.
 
